@@ -14,4 +14,4 @@ The user can also enter their own password, and the program will check to make s
 
 The program also has a additional features:
 
-1. A password generator that can generate passwords based on specific criteria.
+1. A password generator that can generate passwords based on specific preference.

@@ -5,8 +5,8 @@ This program generates a random password with three difficulty levels.
 The user can choose from three levels:
 
 * Easy: 8 characters, all lowercase letters.
-* Medium: 12 characters, lowercase and uppercase letters, and numbers.
-* Hard: 16 characters, lowercase and uppercase letters, numbers, and special characters.
+* Medium: 10 characters, lowercase and uppercase letters, and numbers.
+* Hard: 12 characters, lowercase and uppercase letters, numbers, and special characters.
 
 The program then generates a random password of the specified difficulty level and prints it to the console.
 
